@@ -3,8 +3,8 @@
 https://www.freecodecamp.org/news/if-you-want-to-become-an-android-developer-read-these-books-914cdf4b5347/
 
 
-### Public APIS
-https://any-api.com/     Documentation and Test Consoles for Over 1400 Public APIs
+### Public API Aggegator with Documentation and Test Consoles for Over 1400 Public APIs
+  - https://any-api.com/     
 
 ## Other APIs:
   - http://www.webservicex.net/#/home
