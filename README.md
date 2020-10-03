@@ -1,6 +1,15 @@
-### Δήλωση θέματος εργασίας 2019-20
+### Zoom Meeting Room Info
 
-https://forms.gle/hpA1wUsirRHXa5eA6
+Topic: Android Mobile Development Room
+Time: This is a recurring meeting Meet anytime
+
+Join Zoom Meeting
+https://zoom.us/j/99981713801
+
+Meeting ID: 999 8171 3801
+
+
+-------------------------------------------
 
 
 ### Suggested Books
