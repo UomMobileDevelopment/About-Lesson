@@ -17,7 +17,7 @@ Meeting ID: 999 8171 3801
 https://www.freecodecamp.org/news/if-you-want-to-become-an-android-developer-read-these-books-914cdf4b5347/
 
 
-### Public API Aggegator with Documentation and Test Consoles for Over 1400 Public APIs
+### Public API Aggregator with Documentation and Test Consoles for Over 1400 Public APIs
   - https://any-api.com/     
 
 ## Other APIs:
